@@ -5,16 +5,15 @@ and user accounts at the fictional library.
 
 ## Screenshots
 ### Home Page:
-![project-local-library-dashboard-screenshot](/screenshots/local-library-screenshot.jpg)
+![image](https://user-images.githubusercontent.com/98557317/192106279-181c0dd9-5e43-446f-a5cf-4d2478737670.png)
 
 
 ### Stats by Book:
-![book stats screenshot](/screenshots/book-stats-screenshot.jpg)
+![image](https://user-images.githubusercontent.com/98557317/192106295-69e1b924-7c01-47e7-999e-7f2690f9cd0f.png)
 
 
 ### Stats by Account:
-![account stats screenshot](/screenshots/account-stats-screenshot.jpg)
-
+![image](https://user-images.githubusercontent.com/98557317/192106318-809fa338-02a1-41cc-8151-e6a5b9376e37.png)
 ## Learning Objectives:
 This project was designed to test my ability to:
 - Use Visual Studio Code as a text editor.
